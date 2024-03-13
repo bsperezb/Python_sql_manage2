@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cualquier archivo o carpeta generada por la herramienta de construcción
+build/
+dist/
+
+# Carpeta de archivos temporales
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs y archivos de registro
+*.log
+
+# Archivos de caché
+.cache/
+
+# Carpeta de archivos compilados
+*.pyc
+
+# Carpeta de archivos generados por IDEs
+.idea/
+.vscode/
+
+# Archivos de respaldo generados por editores
+*~
+
+# Archivos de configuración
+*.config
+
+# Archivos de respaldo de documentos de texto
+*.bak
+*.bkp
+
+# Entornos virtuales
+.env
+env/
+venv/
